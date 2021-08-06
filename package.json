@@ -9,7 +9,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangqingqiang/wqq-cli.git"
+  },
+  "keywords": [
+    "vue",
+    "cli"
+  ],
+  "author": "wangqingqiang",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.1",
