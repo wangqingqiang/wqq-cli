@@ -1,11 +1,10 @@
 {
-  "name": "w-cli",
+  "name": "@wqq/cli",
   "version": "0.0.1",
   "description": "尝试创建脚手架",
   "main": "index.js",
   "bin": {
-    "w-cli": "bin/index.js",
-    "w": "bin/index.js"
+    "wqq": "bin/index.js",
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
